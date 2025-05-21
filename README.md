@@ -12,7 +12,7 @@ Ce projet est un mini shell simple codé en langage C dans le cadre du module **
 ## 📂 Structure du projet
 - 'minishell.c' → Code source du shell
 - 'rapport.tex' → Rapport LaTeX détaillé du projet
-- 'images/' → Captures d’écran illustrant le fonctionnement
+- 'Video/' → Enregistrement illustrant le fonctionnement
 
 ## 🔧 Compilation
 ```bash
